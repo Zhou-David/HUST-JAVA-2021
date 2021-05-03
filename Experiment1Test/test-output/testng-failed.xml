@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="D:/IdeaWorkspace/SeachEngine/test/hust/cs/javacourse/search/query/HitTest.java(failed)">
+    <classes>
+      <class name="hust.cs.javacourse.search.query.HitTest">
+        <methods>
+          <include name="testTestToString" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- hust.cs.javacourse.search.query.HitTest -->
+    </classes>
+  </test> <!-- D:/IdeaWorkspace/SeachEngine/test/hust/cs/javacourse/search/query/HitTest.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
